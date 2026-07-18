@@ -1,0 +1,10 @@
+# CareerLift AI
+
+> AI-powered job search platform: resume analysis with ATS scoring, application tracking, and mock interview coaching designed to help candidates land offers at top tech companies faster.
+
+CareerLift AI combines a resume analyzer (PDF/DOCX upload, ATS score, keyword gap analysis, content suggestions), an application tracker (pipeline management with CSV export), a mock interview coach (real-world questions from companies like Meta and Google, scored on communication, clarity, technical depth, and structure), and a personalized AI learning roadmap generated from your resume gaps.
+
+## Pages
+
+- [Home](/): Product overview, features, and how it works.
+- [ATS Resume Optimization Guide](/guides/ats-optimization): Complete guide to passing Applicant Tracking Systems, common pitfalls, and a resume checklist.

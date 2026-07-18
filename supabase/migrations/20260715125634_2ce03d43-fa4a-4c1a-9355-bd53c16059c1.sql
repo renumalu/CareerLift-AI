@@ -1,0 +1,1 @@
+ALTER TABLE public.interview_sessions ADD COLUMN IF NOT EXISTS strict_no_repeat BOOLEAN NOT NULL DEFAULT false;

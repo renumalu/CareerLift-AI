@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /settings
+Disallow: /dashboard
+Disallow: /application-tracker
+Disallow: /resume-analyzer
+Disallow: /mock-interview
+Disallow: /learning-roadmap
+
+Sitemap: https://careerliftaiproj.lovable.app/sitemap.xml
