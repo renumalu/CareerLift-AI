@@ -4,7 +4,7 @@
 
 [build.environment]
   NITRO_PRESET = "netlify"
-  NODE_VERSION = "20"
+  NODE_VERSION = "22"
 
 # Global security headers applied to every response.
 # CSP is intentionally permissive for Supabase (project subdomain) + Google Fonts +
